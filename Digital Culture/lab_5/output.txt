@@ -1,0 +1,39 @@
+Edges count - 2434
+Isolated nodes  - 
+6
+217 321 327 491 504 546 
+Max nodes degrees
+13
+973 949 554 
+Max component distance
+720
+Distance between A and B
+5
+50 948 274 552 594 611 
+Distance between C and D
+4
+764 789 139 751 804 
+Distance between E and F
+5
+647 549 315 317 77 968 
+
+After Deleting
+
+Edges count - 2110
+Isolated nodes  - 
+9
+56 217 321 327 343 458 491 504 546 
+Max nodes degrees
+12
+554 
+Max component distance
+652
+Distance between A and B
+6
+50 264 565 775 542 836 611 
+Distance between C and D
+5
+764 127 734 993 800 804 
+Distance between E and F
+6
+647 549 496 470 586 999 968 
